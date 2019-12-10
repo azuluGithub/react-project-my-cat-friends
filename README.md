@@ -1,24 +1,13 @@
-# matcha #
+# my cat friends #
 
-## this project is underConstruction. ##
+_it is made in JavaScript, Reactjs and Redux_
 
-_it is made in JavaScript, Reactjs, Redux, Firebase and Bootstrap_
+-Profiles are fetched from an API
+-All states are handled by redux
 
-**signup page**
-![signup image](/screenshots/signup.png)
-
-
-**user profile page**
-![profile image](/screenshots/profile.png)
+**Original list**
+![not filtered image](/screenshots/not_filtered.png)
 
 
-**dashboard**
-![dashboard image](/screenshots/dashboard.png)
-
-
-**other users**
-![user image](/screenshots/user.png)
-
-
-**notifications**
-![notification image](/screenshots/notification.png)
+**filtered list**
+![filtered image](/screenshots/filtered.png)
