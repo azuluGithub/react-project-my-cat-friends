@@ -3,6 +3,7 @@
 _it is made in JavaScript, Reactjs and Redux_
 
 -Profiles are fetched from an API
+
 -All states are handled by redux
 
 **Original list**
